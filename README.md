@@ -37,8 +37,11 @@ Bridging the gap between complex engineering systems, digital transformation, an
 <img src="https://skillicons.dev/icons?i=aws,terraform,jenkins,githubactions" />
 </p>
 
-Also experienced with:
+<p>
+Also experienced with:<br>
 IBM ELM Suite • Aras PLM • Oracle • Microsoft PowerApps • dSPACE Automation Desk • Gemini • ChatGPT • GitHub Copilot • Prompt Engineering • REST API Development
+</p>
+
 ---
 
 # 💼 Experience
