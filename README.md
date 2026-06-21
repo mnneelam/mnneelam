@@ -24,12 +24,12 @@ Bridging the gap between complex engineering systems, digital transformation, an
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,bash,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,js,bash" />
 </p>
 
 ### Frameworks & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,react,postgres,docker,kubernetes,git,linux" />
+<img src="https://skillicons.dev/icons?i=django,flask,react,html,css,postgres,mysql,matlab,postman,docker,kubernetes,git,linux" />
 </p>
 
 ### Cloud & DevOps
@@ -38,9 +38,7 @@ Bridging the gap between complex engineering systems, digital transformation, an
 </p>
 
 Also experienced with:
-
-IBM ELM Suite • Aras PLM • MATLAB/Simulink • dSPACE Automation Desk • Gemini • ChatGPT • GitHub Copilot • Prompt Engineering • REST API Development
-
+IBM ELM Suite • Aras PLM • Oracle • Microsoft PowerApps • dSPACE Automation Desk • Gemini • ChatGPT • GitHub Copilot • Prompt Engineering • REST API Development
 ---
 
 # 💼 Experience
