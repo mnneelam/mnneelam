@@ -16,7 +16,7 @@ Bridging the gap between complex engineering systems, digital transformation, an
 
 🎓 **MBA Candidate @ The Ohio State University** (Expected Graduation: July 2026)  
 ⚙️ **Bachelor of Computer Engineering** ⚡ **18+ years of technical experience** driving digital transformation across Automotive and enterprise software sectors  
-🧠 Results-oriented, Proven success in leading cross-functional teams, guiding technical teams and managing vendors.  **high-performance team leadership, systems thinking, and AI-driven process optimization** 🌱 Currently leveraging AI tools to build smarter engineering workflows and eliminate operational organizational silos
+🧠 Results-oriented, Proven success in leading cross-functional teams, guiding technical teams and managing vendors.  **High-performance team leadership, systems thinking, and AI-driven process optimization** 🌱 Currently leveraging AI tools to build smarter engineering workflows and eliminate operational organizational silos
 
 ---
 
