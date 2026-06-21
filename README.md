@@ -39,7 +39,7 @@ Bridging the gap between complex engineering systems, digital transformation, an
 
 <p>
 Also experienced with:<br>
-IBM ELM Suite • Aras PLM • Oracle • Microsoft PowerApps • dSPACE Automation Desk • Gemini • ChatGPT • GitHub Copilot • Prompt Engineering • REST API Development
+IBM ELM Suite • Aras PLM • Oracle • Microsoft PowerApps • dSPACE Automation Desk • Gemini • ChatGPT • GitHub Copilot • Prompt Engineering • REST API Development • PowerBI
 </p>
 
 ---
